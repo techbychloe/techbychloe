@@ -1,0 +1,27 @@
+h2{
+    color: rgb(255, 0, 132);
+    font-family: "Cherry Cream Soda", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color:thistle;
+}
+header {
+    text-align: center;
+    background-color: rgb(255, 101, 155);
+    background-size: cover;
+    color: white;
+  }
+  .whiteLink {
+    color: white;
+  }
+  .special {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0px auto;
+  }
